@@ -1,6 +1,6 @@
 # OneGoal
 
-A menu bar APP helps you stay focused
+A menu bar APP helps you stay focused. Download the APP [here](https://github.com/timqian/one-goal/releases/)
 
 ## Preview
 
