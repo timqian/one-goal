@@ -1,5 +1,7 @@
 # OneGoal
 
+[![](https://img.shields.io/github/downloads/timqian/one-goal/total?style=for-the-badge)](https://github.com/timqian/one-goal/releases/)
+
 A menu bar APP helps you stay focused. Download the APP [here](https://github.com/timqian/one-goal/releases/)
 
 ## Preview
